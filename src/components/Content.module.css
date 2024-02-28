@@ -1,0 +1,52 @@
+.content {
+  height: inherit;
+  width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border: 1px solid red; */
+  /* padding-top: 20px; */
+}
+
+.left {
+  width: 45%;
+  height: 80%;
+  /* border: 1px solid red; */
+}
+.right {
+  width: 45%;
+}
+
+.text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 100%;
+}
+
+.left {
+  text-align: center;
+}
+
+img {
+  height: 100%;
+}
+.text b {
+  font-size: medium;
+}
+
+.text ul {
+  padding-left: 40px;
+  font-size: small;
+}
+.img2 {
+  /* border: 1px solid red; */
+  width: 100%;
+}
+.img2 img {
+  width: 95%;
+}
+
+.text2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 100%;
+  font-size: small;
+}

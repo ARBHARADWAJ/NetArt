@@ -1,0 +1,32 @@
+.con {
+  padding-top: 20px;
+  padding-left: 10px;
+  width: 100vw;
+  height: 100%;
+}
+
+.title {
+  text-align: left;
+  font-size: small;
+}
+.img3 {
+  padding-top: 30px;
+  width: 100%;
+  text-align: center;
+}
+.img3 img {
+  width: 50%;
+}
+
+.l {
+  width: 100%;
+  /* padding-top: 10px; */
+  text-align: center;
+  font-size: small;
+}
+
+.extra {
+  padding-top: 10px;
+  font-size: small;
+  text-align: center;
+}
